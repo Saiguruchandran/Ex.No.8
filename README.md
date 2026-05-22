@@ -1,7 +1,7 @@
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
+# Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :22-05-2026
-# Reg. No. 212223240143
+## Date : 22-05-2026
+## Reg. No. 212223240143
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -48,8 +48,133 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
+
+# Image Reproduction 1: Desert Oasis at Sunset
+
+### 🖼 Original Image
+
+A peaceful desert oasis surrounded by golden sand dunes during sunset.
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_rs023xrs023xrs02" src="https://github.com/user-attachments/assets/478cc2d5-7e42-41f4-b7d0-e4b5c72706c9" />
+
+
+### **Initial Prompt**
+
+"Desert oasis at sunset."
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_oy136doy136doy13" src="https://github.com/user-attachments/assets/a7c65cbb-9d21-4ab0-8d41-8b3c752b8f54" />
+
+
+### **Refined Prompt**
+
+"A serene desert oasis surrounded by towering golden sand dunes glowing under a warm orange sunset. Crystal-clear blue water reflects the vibrant sky while palm trees sway gently in the breeze. Small Bedouin tents rest nearby with soft lantern light illuminating the sand. Ultra-realistic cinematic desert sunset, 8k clarity."
+
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_d9lzkrd9lzkrd9lz" src="https://github.com/user-attachments/assets/2fcb484d-d4f3-48b5-83ce-12a5e56a6f7f" />
+
+
+### **Comparison Report**
+
+**Similarities:**
+
+* Desert dunes and oasis remain key elements.
+* Warm sunset tones preserved.
+
+**Differences:**
+
+* Enhanced reflections in the water.
+* More detailed dunes and palm texture.
+
+**Adjustments Made:**
+
+* Added tents and lantern lights.
+* Improved sky gradients and desert lighting.
+
+---
+
+# Image Reproduction 2: Underwater Lost City
+
+### 🖼 Original Image
+
+A deep underwater ancient city filled with ruins and marine life.
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_u8zhygu8zhygu8zh" src="https://github.com/user-attachments/assets/d634f353-5eab-4a2d-8fcd-739ac384a3fe" />
+
+### **Initial Prompt**
+
+"Underwater ancient city ruins."
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_p09lotp09lotp09l" src="https://github.com/user-attachments/assets/1e1a1dbf-33e4-460a-9423-7a39c1649412" />
+
+
+### **Refined Prompt**
+
+"An ancient sunken city deep underwater with crumbling stone temples covered in coral and seaweed. Sun rays pierce through turquoise water, illuminating statues and broken pillars. Colorful fish swim through arches while bubbles rise from the ocean floor. Ultra-detailed underwater fantasy environment, 12k resolution."
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_flnc95flnc95flnc" src="https://github.com/user-attachments/assets/ea6be8db-b701-4a8c-8d9d-335a840cc25f" />
+
+
+### **Comparison Report**
+
+**Similarities:**
+
+* Ruined structures and underwater theme maintained.
+* Natural light rays consistent.
+
+**Differences:**
+
+* Added marine life and coral textures.
+* More dramatic underwater haze and depth.
+
+**Adjustments Made:**
+
+* Enhanced coral growth.
+* Increased fish movement and particle effects.
+
+---
+
+# Image Reproduction 3: Floating Islands Kingdom
+
+### 🖼 Original Image
+
+A magical landscape with floating islands connected by waterfalls.
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_yelhylyelhylyelh" src="https://github.com/user-attachments/assets/4df4f854-bc97-463b-bf8d-9400ec78672b" />
+
+
+### **Initial Prompt**
+
+"Floating islands in the sky."
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_57we3457we3457we" src="https://github.com/user-attachments/assets/97b825ef-989e-4e79-a357-d40799beb260" />
+
+
+### **Refined Prompt**
+
+"A majestic kingdom built across floating islands suspended in the sky, connected by glowing waterfalls. Lush green cliffs hang over clouds while ancient towers rise from the island tops. Bright sunlight scatters across the atmosphere, creating a magical dreamlike setting. Ultra-realistic fantasy sky world, 8k render."
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_ois07jois07jois0" src="https://github.com/user-attachments/assets/a6bf4b1b-a1c4-496a-ac1e-2308b4e246d8" />
+
+
+### **Comparison Report**
+
+**Similarities:**
+
+* Floating island structure and fantasy mood kept.
+* Bright atmospheric lighting preserved.
+
+**Differences:**
+
+* Added castles, waterfalls, and cloud layers.
+* More vivid colors and sunlight scattering.
+
+**Adjustments Made:**
+
+* Increased magical elements.
+* Enhanced cloud depth and waterfall glow.
+
+---
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
-
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
